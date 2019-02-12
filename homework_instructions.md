@@ -1,5 +1,19 @@
 # Node.js & MySQL
 
+
+Work Time: Wed 2/6 1 hour, Thurs 2/7, 2 hrs
+TBD: 
+Finish Homework Saturday tutorial on final -- 
+    (didn't provide soltion to 8 playlist so using SOlved version of  activity 13.)
+Create CSV for Bamazon
+  Its t-shirts for girls & boys
+
+Upload into bamazon_DB DONE
+function to showall product
+Then Continue at #5 tomorrow
+
+
+
 ## Overview
 
 In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this unit. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, you can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.
